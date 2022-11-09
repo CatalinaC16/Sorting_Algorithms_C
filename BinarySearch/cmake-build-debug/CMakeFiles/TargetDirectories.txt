@@ -1,0 +1,3 @@
+D:/projects/C/sortari/BinarySearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/C/sortari/BinarySearch/cmake-build-debug/CMakeFiles/BinarySearch.dir
+D:/projects/C/sortari/BinarySearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
