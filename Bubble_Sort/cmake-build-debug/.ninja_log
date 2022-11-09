@@ -1,0 +1,17 @@
+# ninja log v5
+0	269	6859038992044944	CMakeFiles/bubblesort.dir/main.c.obj	cafc2555282cbcfd
+271	569	6859038995108077	bubblesort.exe	5349fbf1d265caf4
+4	142	6859039078105337	CMakeFiles/bubblesort.dir/main.c.obj	cafc2555282cbcfd
+143	363	6859039080287719	bubblesort.exe	5349fbf1d265caf4
+1	162	6859039275205942	CMakeFiles/bubblesort.dir/main.c.obj	cafc2555282cbcfd
+163	394	6859039277521151	bubblesort.exe	5349fbf1d265caf4
+2	157	6859039503853278	CMakeFiles/bubblesort.dir/main.c.obj	cafc2555282cbcfd
+157	337	6859039505556520	bubblesort.exe	5349fbf1d265caf4
+2	140	6859039585030603	CMakeFiles/bubblesort.dir/main.c.obj	cafc2555282cbcfd
+140	337	6859039586986044	bubblesort.exe	5349fbf1d265caf4
+2	134	6859040461031329	CMakeFiles/bubblesort.dir/main.c.obj	cafc2555282cbcfd
+134	331	6859040463079353	bubblesort.exe	5349fbf1d265caf4
+4	270	6859063217670808	CMakeFiles/bubblesort.dir/main.c.obj	cafc2555282cbcfd
+270	589	6859063220772516	bubblesort.exe	5349fbf1d265caf4
+3	146	6859063643145411	CMakeFiles/bubblesort.dir/main.c.obj	cafc2555282cbcfd
+147	346	6859063645142985	bubblesort.exe	5349fbf1d265caf4

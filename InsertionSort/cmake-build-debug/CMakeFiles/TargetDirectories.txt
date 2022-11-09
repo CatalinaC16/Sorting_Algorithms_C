@@ -1,0 +1,3 @@
+D:/projects/C/sortari/InsertionSort/cmake-build-debug/CMakeFiles/InsertionSort.dir
+D:/projects/C/sortari/InsertionSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/C/sortari/InsertionSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

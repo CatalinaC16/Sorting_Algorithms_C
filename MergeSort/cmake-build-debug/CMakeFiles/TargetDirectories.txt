@@ -1,0 +1,3 @@
+D:/projects/C/sortari/MergeSort/cmake-build-debug/CMakeFiles/MergeSort.dir
+D:/projects/C/sortari/MergeSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/C/sortari/MergeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
